@@ -5,6 +5,7 @@ and Angular Material 19.x for navigation and layout.  An inital goal was to inte
 APIs with the high-level components provided in the SDK. These include the 
 [eBird API](https://documenter.getpostman.com/view/664302/S1ENwy59) for observation data and NOAA APIs
 for weather and tides.
+![ngx-arcgis-demo](https://github.com/kataya/ngx-arcgis-demo/blob/master/images/ngx-arcgis-demo.png?raw=true)
 
 ## Demo
 The project is automatically deployed to Azure using GitHub Actions each time changes are merged.  It is deployed as a
